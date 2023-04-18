@@ -1,3 +1,3 @@
 # VendettaBlue
-cyriotic3 themes but bluer and blacker\n
+cyriotic3 themes but bluer and blacker\
 https://github.com/cyriotic3/VendettaThemes
