@@ -69,13 +69,13 @@
           "#8ab4f833"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#1a1a1a"
+          "#000000"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
           "#000000"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#1a1a1a"
+          "#000000"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
           "transparent"
